@@ -1,0 +1,31 @@
+Order,Sura Name,Number,Type,Note
+1,Al-Alaq,96,Meccan,
+2,Al-Qalam,68,Meccan,"Except 17-33 and 48-50, from Medina"
+3,Al-Muzzammil,73,Meccan,"Except 10, 11 and 20, from Medina"
+4,Al-Muddaththir,74,Meccan,
+5,Al-Faatiha,1,Meccan,
+6,Al-Masad,111,Meccan,
+7,At-Takwir,81,Meccan,
+8,Al-A'laa,87,Meccan,
+9,Al-Lail,92,Meccan,
+10,Al-Fajr,89,Meccan,
+11,Ad-Dhuhaa,93,Meccan,
+12,Ash-Sharh,94,Meccan,
+13,Al-Asr,103,Meccan,
+14,Al-Aadiyaat,100,Meccan,
+15,Al-Kawthar,108,Meccan,
+16,At-Takaathur,102,Meccan,
+17,Al-Maa'un,107,Meccan,Only 1-3 from Mecca; the rest from Medina
+18,Al-Kaafiroon,109,Meccan,
+19,Al-Fil,105,Meccan,
+20,Al-Falaq,113,Meccan,
+21,An-Naas,114,Meccan,
+22,Al-Ikhlaas,112,Meccan,
+23,An-Najm,53,Meccan,"Except 32, from Medina"
+24,Abasa,80,Meccan,
+25,Al-Qadr,97,Meccan,
+26,Ash-Shams,91,Meccan,
+27,Al-Burooj,85,Meccan,
+28,At-Tin,95,Meccan,
+29,Quraish,106,Meccan,
+30,Al-Qaari'a,101,Meccan,
